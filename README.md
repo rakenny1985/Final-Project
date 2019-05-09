@@ -10,6 +10,8 @@ An Investigation into the Drivers of Chinese and American Aid to Sub-Saharan Afr
 |Wealthy vs Poor Country| gdp_per_capita| Independent|GDP per capita is gross domestic product divided by midyear population in constant 2010 USD|World Bank national accounts data|
 |Freedom|human_freedom_score| Independent| The HFI measures economic freedoms such as: the freedom to trade or to use sound money, the degree to which people are free to enjoy civil liberties—freedom of speech, religion, association, and assembly, indicators on rule of law, crime and violence, freedom of movement, and legal discrimination against same-sex relationships.| Cato Institute|
 |Type of Government| polity| Independent|Combined Polity Score: The POLITY score is computed by subtracting the AUTOC score from the DEMOC score; the resulting unified polity scale ranges from +10 (strongly democratic) to -10 (strongly autocratic)| Polity IV Project|
+|Aid-China| Total; usd_defl_2014|Dependent|ODA-Like: To qualify as ODA-like, a flow must 1) be official financing, 2) administered with the promotion of the economic development and welfare of developing countries as the main objective (donor intent = development), and 3) be concessional in character with a grant element of at least 25 percent (using a fixed 10 percent rate of discount)|AidData|
+|Aid-US|bilat_oda|Dependent|Official development assistance (ODA) is defined by the OECD Development Assistance Committee (DAC) as government aid that promotes and specifically targets the economic development and welfare of developing countries|OECD|
 ## Data Sources
 | Name | Source Identifier | Data | Notes |
 |------|------|------|------|
