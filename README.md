@@ -26,6 +26,15 @@ China and the US are now in full-blown competition on the global stage. The two 
 |Aid-China| Total; usd_defl_2014|Dependent|ODA-Like: To qualify as ODA-like, a flow must 1) be official financing, 2) administered with the promotion of the economic development and welfare of developing countries as the main objective (donor intent = development), and 3) be concessional in character with a grant element of at least 25 percent (using a fixed 10 percent rate of discount)|AidData|
 |Aid-US|bilat_oda|Dependent|Official development assistance (ODA) is defined by the OECD Development Assistance Committee (DAC) as government aid that promotes and specifically targets the economic development and welfare of developing countries|OECD|
 
+## Source Validation
+| Source | Validation |
+|------|------|
+|OECD|||
+|World Bank|||
+|Polity IV Project|||
+|Cato Institute Human Freedom Index|||
+|AidData Chinese ODA|||
+
 ## Data Dictionary
 - Please refer to .pdf documents in this repository for variable data dictionaries for all datasets. These documents include the variables that were omitted from the original. 
 - Cleaning instructions can be found in the repository under Other Docs. 
