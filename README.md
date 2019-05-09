@@ -25,6 +25,7 @@ An Investigation into the Drivers of Chinese and American Aid to Sub-Saharan Afr
 |Aid-US|bilat_oda|Dependent|Official development assistance (ODA) is defined by the OECD Development Assistance Committee (DAC) as government aid that promotes and specifically targets the economic development and welfare of developing countries|OECD|
 
 ## Data Dictionary
-- Please refer to .pdf documents in this repository for variable data dictionaries for both datasets. These documents include the variables that were omitted from the original .csv versions (raw data from Enigma Public) to the clean .xlsx versions used for Python analysis. 
+- Please refer to .pdf documents in this repository for variable data dictionaries for all datasets. These documents include the variables that were omitted from the original. 
+- Cleaning instructions can be found in the repository under Other Docs. 
 - The Python regression analysis merged both datasets at the 'State' variable level. A count function counted the number of instances a hate group or mass shootings were attributed to each state. No additional variable merger took place. 
 - The Plot.ly analysis below used the 'latitude_longitude_appended' variables for both datasets to map instances of mass shootings and hate groups respectively. The mass shooting mapping was amplified in area by the number of victims in each shooting (variable: Total_victims).
