@@ -35,6 +35,10 @@ China and the US are now in full-blown competition on the global stage. The two 
 |Cato Institute Human Freedom Index|||
 |AidData Chinese ODA|||
 
+## Data Management
+- My data management plan was created using [dmptool](https://dmptool.org/plans). A PDF Copy is located in the Data Management folder in this Repository. 
+- My data managment workflow diagram was created using [Draw.io](https://draw.io/). A PDF Copy is located in the Data Management folder in this Repository. 
+
 ## Data Dictionary
 - Please refer to .pdf documents in this repository for variable data dictionaries for all datasets. These documents include the variables that were omitted from the original. 
 - Cleaning instructions can be found in the repository under Other Docs. 
