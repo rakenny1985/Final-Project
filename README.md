@@ -27,11 +27,11 @@ China and the US are now in full-blown competition on the global stage. The two 
 |Aid-US|bilat_oda|Dependent|Official development assistance (ODA) is defined by the OECD Development Assistance Committee (DAC) as government aid that promotes and specifically targets the economic development and welfare of developing countries|OECD|
 
 ## Source Validation
-| Source | Validation |
-|------|------|
-|OECD|||
-|World Bank|||
-|Polity IV Project|||
+| Source | Face Validity |Content Validity|
+|------|------|------|
+|OECD|OECD is an IO with 36 member countries that are "committed to democracy and market economy". It is a statistical agency that publishes comparative stats on global economic indicators|ODA is a uniform measure for OECD countries; the OECD database tracks these and sorts them into subcatagories by working with their Credit Reporting System|
+|World Bank|World Bank Open Data has been used widely across various forums for world development indicator tracking and analysis; they are one of the most powerful IOs in the world|GDP per Capita is a commonly used indicator of the country level production. It is not a perfect indicator of need as it does not describe a wealth gap such as the GINI index. However for this analysis it is a good measure for "need" as it helps rank countries by economic power|
+|Polity IV Project|The Polity IV Project has been used as a measurement tool for large number of research projects trying to find a continuous measure of autocractic or democratic tendencies over time|The Polity index is not a perfect measure|
 |Cato Institute Human Freedom Index|||
 |AidData Chinese ODA|||
 
@@ -40,7 +40,7 @@ China and the US are now in full-blown competition on the global stage. The two 
 - My data managment workflow diagram was created using [Draw.io](https://draw.io/). A PDF Copy is located in the Data Management folder in this Repository. 
 
 ## Data Dictionary
-- Please refer to .pdf documents in this repository for variable data dictionaries for all datasets. These documents include the variables that were omitted from the original. 
-- Cleaning instructions can be found in the repository under Other Docs. 
-- The Python regression analysis merged both datasets at the 'State' variable level. A count function counted the number of instances a hate group or mass shootings were attributed to each state. No additional variable merger took place. 
-- The Plot.ly analysis below used the 'latitude_longitude_appended' variables for both datasets to map instances of mass shootings and hate groups respectively. The mass shooting mapping was amplified in area by the number of victims in each shooting (variable: Total_victims).
+- Please refer to .pdf and word documents in this repository for variable data dictionaries for all datasets. There are original .pdf files for variable dictionaries when available from data source as well.  
+- Cleaning instructions can be found in the repository under Other Docs. This document is a log of all manual excel modifications made prior to automate Python coding. 
+- Automated Python Code is locates as separate files in the repository. They are separated based on task and research question of focus. They are named accordingly. 
+
