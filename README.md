@@ -31,9 +31,9 @@ China and the US are now in full-blown competition on the global stage. The two 
 |------|------|------|
 |OECD|OECD is an IO with 36 member countries that are "committed to democracy and market economy". It is a statistical agency that publishes comparative stats on global economic indicators|ODA is a uniform measure for OECD countries; the OECD database tracks these and sorts them into subcatagories by working with their Credit Reporting System|
 |World Bank|World Bank Open Data has been used widely across various forums for world development indicator tracking and analysis; they are one of the most powerful IOs in the world|GDP per Capita is a commonly used indicator of the country level production. It is not a perfect indicator of need as it does not describe a wealth gap such as the GINI index. However for this analysis it is a good measure for "need" as it helps rank countries by economic power|
-|Polity IV Project|The Polity IV Project has been used as a measurement tool for large number of research projects trying to find a continuous measure of autocractic or democratic tendencies over time|The Polity index is not a perfect measure|
-|Cato Institute Human Freedom Index|||
-|AidData Chinese ODA|||
+|Polity IV Project|The Polity IV Project has been used as a measurement tool for large number of research projects trying to find a continuous measure of autocractic or democratic tendencies over time|The Polity index is not a perfect measure - their manual states it: "should be treated and interpreted with due caution Its primary utility is in investigative research which should be augmented by more detailed analysis".|
+|Cato Institute Human Freedom Index|Cato partners with other think tanks to produce the analysis. It's human freedom index has been a reported measure of freedom for four editions|No content validity|
+|AidData Chinese ODA|AidData analyses have been used widely in international development research|Additional validation performed by comparing to a reserach paper validation that compared AidData to Malawi reported aid recieved by project|
 
 ## Data Management
 - My data management plan was created using [dmptool](https://dmptool.org/plans). A PDF Copy is located in the Data Management folder in this Repository. 
