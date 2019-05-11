@@ -3,7 +3,7 @@ An Investigation into the Drivers of Chinese and American Aid to Sub-Saharan Afr
 
 
 ## Research Questions: (1) What country characteristics (government type, freedom, wealth/poverty) drive US and Chinese Aid? Secondary questions: How does Chinese aid to Africa differ from United States Aid by sector? (3) Which countries recieve the most/least aid from each? 
-- My hypotheses looks to test assumptions about the reasons China and the US commit aid to Sub-Saharan Africa.  (1) Assumption: China gives more aid to countries that are more autocratic and have less freedoms, (2)Assumptio: US gives more aid to countries with the greatest need and that are more democratic.
+- My hypotheses looks to test assumptions and academic theory about the reasons China and the US commit aid to Sub-Saharan Africa. 
 - This research comprised of 5 open-source datasets described below. 
 ## Why Should You Care?
 China and the US are now in full-blown competition on the global stage. The two superpowers have different visions of Trade, cybersecurity, economic development. Global norms are likely to change based on which country gains the most influence. Sub-Saharan Africa is still highly underdeveloped. However with its large UN voting bloc, abundance of natural resources and a growing young middle class, this region is set to take off. The US has seemingly ignored the continent under the Trump Administration, while China has ramped up its engagement. While aid is only one component of relations between states, it's an interesting idicator of engagement levels and how those have changed over time. Soft Power is still relevant in today's global landscape. 
