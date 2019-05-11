@@ -43,4 +43,5 @@ China and the US are now in full-blown competition on the global stage. The two 
 - Please refer to .pdf and word documents in this repository for variable data dictionaries for all datasets. There are original .pdf files for variable dictionaries when available from data source as well.  
 - Cleaning instructions can be found in the repository under Other Docs. This document is a log of all manual excel modifications made prior to automate Python coding. 
 - Automated Python Code is locates as separate files in the repository. They are separated based on task and research question of focus. They are named accordingly. 
+- Below Plot.ly Map was created using Plot.ly's web interface. The original data with Geo Coordinates is located in the Raw folder under AidData_oda-like_flows.csv. The cleaned version is located under the Clean folder as Zam_flow_rk_edit.xlsx. The plot is primarily for my own interest and not a materially significant piece of this analysis. 
 
