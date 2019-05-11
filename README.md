@@ -46,3 +46,9 @@ China and the US are now in full-blown competition on the global stage. The two 
 - Below Plot.ly Map was created using Plot.ly's web interface. The original data with Geo Coordinates is located in the Raw folder under AidData_oda-like_flows.csv. The cleaned version is located under the Clean folder as Zam_flow_rk_edit.xlsx. The plot is primarily for my own interest and not a materially significant piece of this analysis. 
 
 [CHINA ODA TO ZAMBIA - HEATMAP](https://plot.ly/~Ryannnnnnnnn/32.embed)
+<div>
+    <a href="https://plot.ly/~Ryannnnnnnnn/32/?share_key=FBDtVbOyzyTEZvp4mwampL" target="_blank" title="Plot 32" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/32.png?share_key=FBDtVbOyzyTEZvp4mwampL" alt="Plot 32" style="max-width: 100%;width: 979px;"  width="979" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Ryannnnnnnnn:32" sharekey-plotly="FBDtVbOyzyTEZvp4mwampL" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
